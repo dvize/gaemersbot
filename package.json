@@ -13,6 +13,7 @@
   "author": "dvize",
   "license": "MIT",
   "dependencies": {
+    "cson": "^1.6.0",
     "node-html-encoder": "0.0.2",
     "plug-dj-login": "0.0.0",
     "plugapi": "^2.3.1",
