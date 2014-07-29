@@ -1,0 +1,2627 @@
+[
+  {
+    question: "What spaceport was the cantina in?"
+    answer: "Mos Eisley"
+  }
+  {
+    question: "Where was Princess Leia from?"
+    answer: "Alderaan"
+  }
+  {
+    question: "What was the name of the creature who worked for Jabba the Hutt and was shot by Han Solo?"
+    answer: "Greedo"
+  }
+  {
+    question: "What vehicle did Luke drive on Tatooine?"
+    answer: "landspeeder"
+  }
+  {
+    question: "What vehicle did the jawas drive?"
+    answer: "sandcrawler"
+  }
+  {
+    question: "What was Leia's starship called at the beginning of Star Wars?"
+    answer: "Blockade Runner"
+  }
+  {
+    question: "What were the names of Luke's two friends who had already entered the Academy?"
+    answer: "Biggs and Tank"
+  }
+  {
+    question: "What was the name of the freighter that Biggs Darklighter served on after graduating from the Academy?"
+    answer: "Rand Ecleptic"
+  }
+  {
+    question: "What was the vulnerable spot on the Death Star at which the Rebel fighters aimed?"
+    answer: "A small thermal exhaust port"
+  }
+  {
+    question: "How did R2-D2 and C-3PO get away from the captured Rebel ship?"
+    answer: "In an escape pod"
+  }
+  {
+    question: "What clues found by the stormtroopers on Tatooine desert first alerted them to the droids' presence?"
+    answer: "Their tracks and a small metal ring"
+  }
+  {
+    question: "What was Luke playing with while Threepio was taking his oil bath?"
+    answer: "A model ship"
+  }
+  {
+    question: "What kind of work did Luke and his Uncle do?"
+    answer: "Moisture farming."
+  }
+  {
+    question: "What creatures did the sandpeople ride?"
+    answer: "Banthas"
+  }
+  {
+    question: "What was Luke's original ambition before strange twists of fate made him a Rebel commander?"
+    answer: "To be in the Academy"
+  }
+  {
+    question: "What was the name of the planet destroyed by the Death Star?"
+    answer: "Alderaan"
+  }
+  {
+    question: "Who claimed that the Death Star was the ultimate power in the universe?"
+    answer: "Motti"
+  }
+  {
+    question: "How fast did Han claim the Millennium Falcon could go?"
+    answer: ".5 past lightspeed"
+  }
+  {
+    question: "Where, in her attempt to save Alderaan, did Leia say the main Rebel base was?"
+    answer: "Dantooine"
+  }
+  {
+    question: "What weapon did a Tusken Raider use?"
+    answer: "A Gaderffii stick"
+  }
+  {
+    question: "How did Han and Chewie find the Death Star?"
+    answer: "They chased a TIE fighter"
+  }
+  {
+    question: "What was one of the tortures Grand Moff Tarkin and Darth Vader used to try to force information from Princess Leia?"
+    answer: "A mind probe"
+  }
+  {
+    question: "What did Luke and Ben do with the dead jawas?"
+    answer: "They burned them"
+  }
+  {
+    question: "What secret information was R2-D2 carrying in his memory bank?"
+    answer: "The technical readouts from the Death Star"
+  }
+  {
+    question: "Who killed Luke's Uncle Owen and Aunt Beru?"
+    answer: "Imperial stormtroopers"
+  }
+  {
+    question: "What was the name of Bigg's friend, also slain in the battle of the Death Star?"
+    answer: "Lt. Porkins"
+  }
+  {
+    question: "What was the unique power of the Death Star?"
+    answer: "It could destroy planets"
+  }
+  {
+    question: "What disguise did Luke and Han wear on the Death Star?"
+    answer: "Stormtrooper armor"
+  }
+  {
+    question: "What forced the Falcon to land on the Death Star?"
+    answer: "A tractor beam"
+  }
+  {
+    question: "Due to its appearance when watered down, what, in slang, is referred to as 'sky blue'"
+    answer: "milk" 
+  }
+  {
+    question: "TV / Movies: Who finds a tiny flying saucer on her roof in The Invaders"
+    answer: "agnes moorehead" 
+  }
+  {
+    question: "What is limnology the study of"
+    answer: "lakes" 
+  }
+  {
+    question: "Who was Hitler's foreign minister during World War II"
+    answer: "von ribbentrop" 
+  }
+  {
+    question: "Who, most famously, was shot by Bob Ford in 1882"
+    answer: "jesse james" 
+  }
+  {
+    question: "7x was used to refer to the secret ingredient of what drink"
+    answer: "coca cola" 
+  }
+  {
+    question: "Baby It's You was just one of the many hits of the early 60's for this girl group"
+    answer: "The Shirelles" 
+  }
+  {
+    question: "bizarre love triangle was a song by which french artist"
+    answer: "frente" 
+  }
+  {
+    question: "Blue Meanies appeared in which 1968 film"
+    answer: "yellow submarine" 
+  }
+  {
+    question: "Boy, as in Tallboy and Lowboy, is derived from the French word for what"
+    answer: "wood" 
+  }
+  {
+    question: "But touch my tears with your lips, touch my world with your fingertips what is the queen song title"
+    answer: "Who Wants to Live Forever" 
+  }
+  {
+    question: "change the world was the theme song of which john travolta movie"
+    answer: "phenomenon" 
+  }
+  {
+    question: "Chastity was the name of the first-born of whom"
+    answer: "cher bono" 
+  }
+  {
+    question: "chessie the cat is the symbol of what us railroad"
+    answer: "chesapeake & ohio" 
+  }
+  {
+    question: "City Lights was the name of a film by whom"
+    answer: "charlie chaplin" 
+  }
+  {
+    question: "City Lights was the name of a film by whom"
+    answer: "Charlie Chaplin"
+  }
+  {
+    question: "contact, starring jodie foster, was written by"
+    answer: "carl sagan" 
+  }
+  {
+    question: "Damme Damme Damme (Accents Ommited) Was The Spanish Version Of Which Abba Hit"
+    answer: "Gimme Gimme Gimme" 
+  }
+  {
+    question: "Do unto others as you would have others do unto you is also called what"
+    answer: "golden rule" 
+  }
+  {
+    question: "Don't You Feel Like Cryin', Don't You Feel Like Cryin' what is the song name"
+    answer: "cry to me" 
+  }
+  {
+    question: "dragon whiskers is a type of tea from what country"
+    answer: "china" 
+  }
+  {
+    question: "dragon wing is book one of what set of books?"
+    answer: "death gate cycle" 
+  }
+  {
+    question: "duty, honor, country is the motto of what school?"
+    answer: "west point" 
+  }
+  {
+    question: "Earth has not anything to show more fair is the first line of a poem by whom"
+    answer: "wordworth" 
+  }
+  {
+    question: "Erse is another name for which language"
+    answer: "gaelic" 
+  }
+  {
+    question: "family ties unravels after ___ with their final episode?"
+    answer: "seven years" 
+  }
+  {
+    question: "father of the atom democritus and the greek philosopher protagoras were born here"
+    answer: "abdera, thrace" 
+  }
+  {
+    question: "fruit smack flavored syrup was the original name of"
+    answer: "kool aid" 
+  }
+  {
+    question: "Funky Cold Medina,"
+    answer: "Tone Loc" 
+  }
+  {
+    question: "Gastritis is a condition that affects what part of the body"
+    answer: "stomach" 
+  }
+  {
+    question: "Gherkins are a type of "
+    answer: "pickle" 
+  }
+  {
+    question: "Gimmie Dat Ding Was A 1970 Hit For.... The"
+    answer: "Pipkins" 
+  }
+  {
+    question: "golf is a good walk spoilt is attributed to which long time golf hater"
+    answer: "mark twain" 
+  }
+  {
+    question: "great teacher, the title bestowed upon buddha, is also formally called "
+    answer: "gautama" 
+  }
+  {
+    question: "handsome dan is the mascot of what college football team?"
+    answer: "yale" 
+  }
+  {
+    question: "Heh, heh. Those darn ninjas. They're ."
+    answer: "wacky" 
+  }
+  {
+    question: "Home on the Range is the official song for which of the United States"
+    answer: "kansas" 
+  }
+  {
+    question: "Home on the Range is the official song for which state of the United States"
+    answer: "kansas" 
+  }
+  {
+    question: "I Melt With You was this band's signature hit, released on their after the snow album in 1982"
+    answer: "Modern English" 
+  }
+  {
+    question: "i need a new drug was a big hit for what group?"
+    answer: "huey lewis & the news" 
+  }
+  {
+    question: "I Shot the Sheriff by Eric Clapton was a rendition of who's song"
+    answer: "bob marley" 
+  }
+  {
+    question: "family ties unravels after xxx with their final episode?"
+    answer: "seven years" 
+  }
+  {
+    question: "father of the atom democritus and the greek philosopher protagoras were born here"
+    answer: "abdera, thrace" 
+  }
+  {
+    question: "faux pas means xxxxxxxxxxx"
+    answer: "mistake" 
+  }
+  {
+    question: "fruit smack flavored syrup was the original name of"
+    answer: "kool aid" 
+  }
+  {
+    question: "Funky Cold Medina,"
+    answer: "Tone Loc" 
+  }
+  {
+    question: "Gastritis is a condition that affects what part of the body"
+    answer: "stomach" 
+  }
+  {
+    question: "Gherkins are a type of xxxxxx"
+    answer: "pickle" 
+  }
+  {
+    question: "Gimmie Dat Ding Was A 1970 Hit For.... The"
+    answer: "Pipkins" 
+  }
+  {
+    question: "golf is a good walk spoilt is attributed to which long time golf hater"
+    answer: "mark twain" 
+  }
+  {
+    question: "great teacher, the title bestowed upon buddha, is also formally called "
+    answer: "gautama" 
+  }
+  {
+    question: "handsome dan is the mascot of what college football team?"
+    answer: "yale" 
+  }
+  {
+    question: "Heh, heh. Those darn ninjas. They're xxxxx."
+    answer: "wacky" 
+  }
+  {
+    question: "Home on the Range is the official song for which of the United States"
+    answer: "kansas" 
+  }
+  {
+    question: "Home on the Range is the official song for which state of the United States"
+    answer: "kansas" 
+  }
+  {
+    question: "I Melt With You was this band's signature hit, released on their after the snow album in 1982"
+    answer: "Modern English" 
+  }
+  {
+    question: "i need a new drug was a big hit for what group?"
+    answer: "huey lewis & the news" 
+  }
+  {
+    question: "I Shot the Sheriff by Eric Clapton was a rendition of who's song"
+    answer: "bob marley" 
+  }
+  {
+    question: "I'm a soldier of fortune, I'm a dog of war ... What's the Dire Straits song title"
+    answer: "Ride Across the River" 
+  }
+  {
+    question: "Is There Something I Should Know"
+    answer: "Duran Duran" 
+  }
+  {
+    question: "One shaft of light that shows the way, no mortal man can win this day what is the Queen song title"
+    answer: "A Kind of Magic" 
+  }
+  {
+    question: "Other Woman,"
+    answer: "Ray Parker Jr" 
+  }
+  {
+    question: "Out of the Blue was a hit album for which UK group"
+    answer: "electric light orchestra" 
+  }
+  {
+    question: "Paranomia,"
+    answer: "Art of Noise w Max Headroom" 
+  }
+  {
+    question: "People Will Say We're In Love is a song from which musical"
+    answer: "oklahoma" 
+  }
+  {
+    question: "persona non grata means?"
+    answer: "unacceptable person" 
+  }
+  {
+    question: "Politics of Dancing,"
+    answer: "Re-Flex" 
+  }
+  {
+    question: "Poppy Field and Water Lilies were painted by which artist"
+    answer: "claude monet" 
+  }
+  {
+    question: "Queen of Hearts"
+    answer: "Juice Newton" 
+  }
+  {
+    question: "Raison d'etre means"
+    answer: "reason for existence" 
+  }
+  {
+    question: "retro is latin for what"
+    answer: "backward" 
+  }
+  {
+    question: "ripley's believe it or not was hosted by whom"
+    answer: "jack palance" 
+  }
+  {
+    question: "Rock 'n' Roll High School,"
+    answer: "The Ramones" 
+  }
+  {
+    question: "s'long, joe it's the end of an era when baseball great xxx retires"
+    answer: "joe dimaggio" 
+  }
+  {
+    question: "Scaramanger Appeared In Which James Bond Film"
+    answer: "The Man With The Golden Gun" 
+  }
+  {
+    question: "Shadowfax is the horse of which fictional wizard"
+    answer: "gandalf" 
+  }
+  {
+    question: "shaft premieres on cbs as richard roundtree recreates the flamboyant"
+    answer: "private eye" 
+  }
+  {
+    question: "Slow Ride was Foghats biggest hit from this album released in 1975?"
+    answer: "fool for the city" 
+  }
+  {
+    question: "Music : who sang one pill makes you larger"
+    answer: "jefferson airplane" 
+  }
+  {
+    question: "Music : who sang patience & live & let die"
+    answer: "guns n roses" 
+  }
+  {
+    question: "Music : who sang show me the way & i'm in you & baby i love your way"
+    answer: "peter frampton" 
+  }
+  {
+    question: "Music : who sang solitary man & crunchy granola suite"
+    answer: "neil diamond" 
+  }
+  {
+    question: "Music : who sang this used to be my playground & cherish"
+    answer: "madonna" 
+  }
+  {
+    question: "Music : Who sang what you want, baby, i got it"
+    answer: "aretha franklin" 
+  }
+  {
+    question: "Music : who sang where the streets have no name & with or without you"
+    answer: "u2" 
+  }
+  {
+    question: "Music : who sang '25 or 6 to 4'"
+    answer: "chicago" 
+  }
+  {
+    question: "Music : who sang 'another one bites the dust'"
+    answer: "queen" 
+  }
+  {
+    question: "Music : Who sang 'Bad Case Of Loving You'"
+    answer: "robert palmer" 
+  }
+  {
+    question: "Music : Who sang 'Fire & Rain'"
+    answer: "james taylor" 
+  }
+  {
+    question: "Music : Who sang 'Forever Young' and 'Big in Japan'"
+    answer: "alphaville" 
+  }
+  {
+    question: "Music : Who sang 'Popsicle', 'Hangin' Tough', 'Please Don't Go Girl' & 'Step By Step'"
+    answer: "new kids on the block" 
+  }
+  {
+    question: "Music : who sang 'tiptoe through the tulips' in 1969"
+    answer: "tiny tim" 
+  }
+  {
+    question: "Music : who sang a song inspired by 'alice in wonderland'"
+    answer: "jefferson airplane" 
+  }
+  {
+    question: "Music : who sang about 'commitment'"
+    answer: "leann rhimes" 
+  }
+  {
+    question: "Music : who sang about 'the boogie boogie bugle boy of company b'"
+    answer: "andrews sisters" 
+  }
+  {
+    question: "Music : who sang about desmond & molly jones"
+    answer: "the beatles" 
+  }
+  {
+    question: "Music : who sang about the land of yellow submarines"
+    answer: "beatles" 
+  }
+  {
+    question: "Music : Who sang about the 'Werewolves of London'"
+    answer: "warren zevon" 
+  }
+  {
+    question: "Music : Who sang april love"
+    answer: "pat boone" 
+  }
+  {
+    question: "Music : who sang big bad john"
+    answer: "jimmy dean" 
+  }
+  {
+    question: "Music : who sang hot love"
+    answer: "t rex" 
+  }
+  {
+    question: "Music : Who Sang It 6: Boot Scoot Boogie"
+    answer: "brooks and dunn" 
+  }
+  {
+    question: "Music : Who Sang It 6: Do Me"
+    answer: "bell biv devoe" 
+  }
+  {
+    question: "Music : Who Sang It 6: I Can't Watch This"
+    answer: "weird al" 
+  }
+  {
+    question: "Music : Who Sang It 6: T.L.C.A.S.A.P"
+    answer: "alabama" 
+  }
+  {
+    question: "Music : Who Sang It 6: To The Extreme"
+    answer: "vanilla ice" 
+  }
+  {
+    question: "Music : Who Sang It : I wanna be your man... "
+    answer: "roger" 
+  }
+  {
+    question: "Music : Who Sang It : Mary dropped her pants by the sand... "
+    answer: "cat stevens" 
+  }
+  {
+    question: "Music : Who Sang It : My mother reads her magazine..."
+    answer: "carly simon" 
+  }
+  {
+    question: "Music : Who Sang It : Well my time went so quickly, I went lickity-splitly..."
+    answer: "eagles" 
+  }
+  {
+    question: "Music : Who Sang It : Well, that's bungle in the jungle..."
+    answer: "jethro tull" 
+  }
+  {
+    question: "Music : Who Sang It : When I come home to you, San Francisco..."
+    answer: "tony bennett" 
+  }
+  {
+    question: "Music : Who Sang It : You say that it's over, baby... "
+    answer: "janis joplin" 
+  }
+  {
+    question: "Music : Who Sang It : You've got the magic touch..."
+    answer: "platters" 
+  }
+  {
+    question: "Music : Who Sang It : ANOTHER SATURDAY NIGHT"
+    answer: "cat stevens" 
+  }
+  {
+    question: "Music : Who Sang It : Bop 'Til You Drop"
+    answer: "rick springfield" 
+  }
+  {
+    question: "Music : Who Sang It : Chatahoocie"
+    answer: "alan jackson" 
+  }
+  {
+    question: "Music : Who Sang It : Cornflake Girl"
+    answer: "tori amos" 
+  }
+  {
+    question: "Music : Who Sang It : Don't Talk Just Kiss"
+    answer: "right said fred" 
+  }
+  {
+    question: "Music : Who Sang It : HANG ON IN THERE BABY"
+    answer: "johnny bristol" 
+  }
+  {
+    question: "Music : Who Sang It : HAVING MY BABY"
+    answer: "paul anka" 
+  }
+  {
+    question: "Music : Who Sang It : HOLLYWOOD SWINGING "
+    answer: "kool & the gang" 
+  }
+  {
+    question: "Music : Who Sang It : I FINALLY GOT MYSELF TOGETHER I'm a Changed Man "
+    answer: "the impressions" 
+  }
+  {
+    question: "Music : Who Sang It : I'M LEAVING IT (All) UP TO YOU"
+    answer: "donny & marie osmond" 
+  }
+  {
+    question: "Music : Who Sang It : IT'S ONLY ROCK 'N ROLL But I Like It"
+    answer: "the rolling stones" 
+  }
+  {
+    question: "Music : Who Sang It : Jam on It"
+    answer: "newcleus" 
+  }
+  {
+    question: "Music : Who Sang It : JIVE TURKEY "
+    answer: "the ohio players" 
+  }
+  {
+    question: "Music : Who Sang It : NEVER MY LOVE "
+    answer: "blue swede" 
+  }
+  {
+    question: "Music : Who Sang It : ONE HELL OF A WOMAN"
+    answer: "mac davis" 
+  }
+  {
+    question: "Music : Who Sang It : Panama"
+    answer: "van halen" 
+  }
+  {
+    question: "Music : Who Sang It : PLEASE COME TO BOSTON"
+    answer: "dave loggins" 
+  }
+  {
+    question: "Music : Who Sang It : RADAR LOVE"
+    answer: "golden earring" 
+  }
+  {
+    question: "Music : Who Sang It : Sad Songs (Say So Much)"
+    answer: "elton john" 
+  }
+  {
+    question: "Music : Who Sang It : SIDESHOW"
+    answer: "blue magic" 
+  }
+  {
+    question: "Music : Who Sang It : THE AIR THAT I BREATHE"
+    answer: "the hollies" 
+  }
+  {
+    question: "Music : Who Sang It : This is the Way We Roll"
+    answer: "hammer" 
+  }
+  {
+    question: "Music : Who Sang It : Thunder Rolls"
+    answer: "garth brooks" 
+  }
+  {
+    question: "Music : Who Sang It : We're Not Gonna Take It"
+    answer: "twisted sister" 
+  }
+  {
+    question: "Music : Who Sang It : YOU CAN'T BE A BEACON If Your Light Don't Shine "
+    answer: "donna fargo" 
+  }
+  {
+    question: "Music : Who took a magic carpet ride in 1968"
+    answer: "steppenwolf" 
+  }
+  {
+    question: "Music : who wanted 'a lover with a slow hand'"
+    answer: "pointer sisters" 
+  }
+  {
+    question: "Music : who wanted 'a new drug'"
+    answer: "huey lewis" 
+  }
+  {
+    question: "Music : Who wanted you to shake your groove thing"
+    answer: "peaches & herb" 
+  }
+  {
+    question: "Music : who warned dont knock the twist"
+    answer: "chubby checker" 
+  }
+  {
+    question: "Music : who was off the wall in 1979"
+    answer: "michael jackson" 
+  }
+  {
+    question: "Music : Who was 'hooked on a feeling'"
+    answer: "blue suede" 
+  }
+  {
+    question: "Music : Who was 13 when she became the youngest singer to crack the country top 50 chart"
+    answer: "leann rimes" 
+  }
+  {
+    question: "Music : who was a bullfrog & a great friend of mine"
+    answer: "jeremiah" 
+  }
+  {
+    question: "Music : who was asked to hang down your head by the kingston trio"
+    answer: "tom dooley" 
+  }
+  {
+    question: "Music : who was bernie taupin's long time songwriting partner"
+    answer: "elton john" 
+  }
+  {
+    question: "Music : who was billy joel singing about in the song uptown girl"
+    answer: "christie brinkley" 
+  }
+  {
+    question: "Music : Who was born herbert khaury"
+    answer: "tiny tim" 
+  }
+  {
+    question: "Music : who was carly simon singing about in you're so vain"
+    answer: "warren beatty" 
+  }
+  {
+    question: "Music : who was elton john singing about in the original candle in the wind"
+    answer: "marilyn monroe" 
+  }
+  {
+    question: "Music : Who was elton john's long time lyricist"
+    answer: "bernie taupin" 
+  }
+  {
+    question: "Music : Who was honorably named M.C. Jell-Jell Kool-O B. AFRO by Michael Franti"
+    answer: "jello biafra" 
+  }
+  {
+    question: "Music : who was john lennon married to"
+    answer: "yoko ono" 
+  }
+  {
+    question: "Music : Who was known as the king of calypso"
+    answer: "harry belafonte" 
+  }
+  {
+    question: "Music : Who was michael hutchence's last girl friend"
+    answer: "paula yates" 
+  }
+  {
+    question: "Music : who was michael jackson married to"
+    answer: "lisa marie presley" 
+  }
+  {
+    question: "Music : who was on the cover of the first issue of rolling stone, dated november 9, 1967"
+    answer: "john lennon" 
+  }
+  {
+    question: "Music : who was signed by motown when he was 5"
+    answer: "michael jackson" 
+  }
+  {
+    question: "Music : Who was the best man at the 1968 wedding of johnny cash & june carter"
+    answer: "merle kilgore" 
+  }
+  {
+    question: "Music : Who was the composer of the opera rigoletto"
+    answer: "verdi" 
+  }
+  {
+    question: "Music : who was the first black singer to headline a network variety show"
+    answer: "nat king cole" 
+  }
+  {
+    question: "Music : who was the first canadian to top us album charts in the 1980's"
+    answer: "diamonds" 
+  }
+  {
+    question: "Music : Who was the first recorded country music artist"
+    answer: "eck robertson" 
+  }
+  {
+    question: "Music : Who was the former leader of Ten Thousand Maniacs"
+    answer: "natalie merchant" 
+  }
+  {
+    question: "Music : Who was the lead man for creedence clearwater revival"
+    answer: "john fogerty" 
+  }
+  {
+    question: "Music : who was the lead singer for queen"
+    answer: "freddie mercury" 
+  }
+  {
+    question: "Music : who was the lead singer of the rolling stones when the band was formed in 1962"
+    answer: "mick jagger" 
+  }
+  {
+    question: "Music : who was the music composer that went deaf"
+    answer: "beethoven" 
+  }
+  {
+    question: "Music : Who was the oldest member of The Beatles"
+    answer: "ringo starr" 
+  }
+  {
+    question: "Music : who was the original singer for the group genesis"
+    answer: "peter gabriel" 
+  }
+  {
+    question: "Music : Who was the original singer of 'when a man loves a woman'"
+    answer: "percy sledge" 
+  }
+  {
+    question: "Music : who was the original singer of acdc"
+    answer: "bon scott" 
+  }
+  {
+    question: "Music : Who was Tony Orlando reunited with after 11 years in july, 1988"
+    answer: "dawn" 
+  }
+  {
+    question: "Music : Who wrote Carmina Burana"
+    answer: "carl orff" 
+  }
+  {
+    question: "Music : who wrote 'lay down' in 1970"
+    answer: "melanie" 
+  }
+  {
+    question: "Music : who wrote & performed 'a horse with no name'"
+    answer: "america" 
+  }
+  {
+    question: "Music : who wrote & performed 'baker street'"
+    answer: "gerry rafferty" 
+  }
+  {
+    question: "Music : who wrote & performed 'band on the run'"
+    answer: "paul mccartney" 
+  }
+  {
+    question: "Music : who wrote & performed 'candle in the wind'"
+    answer: "elton john" 
+  }
+  {
+    question: "Music : who wrote & performed 'dream lover'"
+    answer: "bobby darin" 
+  }
+  {
+    question: "Music : who wrote & performed 'fire & rain'"
+    answer: "james taylor" 
+  }
+  {
+    question: "Music : who wrote & performed 'i still call australia home'"
+    answer: "peter allen" 
+  }
+  {
+    question: "Music : who wrote & performed 'imagine'"
+    answer: "john lennon" 
+  }
+  {
+    question: "Music : who wrote & performed 'maybe i'm amazed'"
+    answer: "paul mccartney" 
+  }
+  {
+    question: "Music : who wrote & performed 'pretty woman'"
+    answer: "roy orbison" 
+  }
+  {
+    question: "Music : who wrote & performed 'sorry seems to be the hardest word'"
+    answer: "elton john" 
+  }
+  {
+    question: "Music : who wrote & performed the title track for the movie 'goodbye girl'"
+    answer: "david gates" 
+  }
+  {
+    question: "Music : who wrote & sang splish splash"
+    answer: "bobby darin" 
+  }
+  {
+    question: "Music : who wrote the entertainer, music made famous by the film,'the sting'"
+    answer: "scott joplin" 
+  }
+  {
+    question: "biology: what does the term 'carnivore' refer to"
+    answer: "meat eating animals" 
+  }
+  {
+    question: "Bird Music: What was the original name of the group 'Chicago'?"
+    answer: "Chicago Transit" 
+  }
+  {
+    question: "Bird with brilliant plumage and erectile fan like tail?"
+    answer: "peacock" 
+  }
+  {
+    question: "Bird with characteristic cry and the habit of laying eggs in other birds nests?"
+    answer: "cuckoo" 
+  }
+  {
+    question: "birling is commonly known as?"
+    answer: "logrolling" 
+  }
+  {
+    question: "Bill Watterson, cartoonist for Calvin & Hobbes, is the first cartoonist to use what word in his cartoon"
+    answer: "booger" 
+  }
+  {
+    question: "Billie Jean King competed in which modern sport"
+    answer: "tennis" 
+  }
+  {
+    question: "Billion what can release approximately one billion grains of pollen"
+    answer: "ragweed plant" 
+  }
+  {
+    question: "billy ray cyrus sang '______ breaky heart'"
+    answer: "achy" 
+  }
+  {
+    question: "Billy the Kid was born in _____"
+    answer: "1859" 
+  }
+  {
+    question: "Biological community of interacting organisms and their physical environment"
+    answer: "ecosystem" 
+  }
+  
+  {
+    question: "Birmingham is flanked by the M6 on the north and M5 on the west, which motorway flanks south & east"
+    answer: "m42" 
+  }
+  {
+    question: "BIRTHSTONES: April"
+    answer: "diamond" 
+  }
+  {
+    question: "BIRTHSTONES: August"
+    answer: "peridot" 
+  }
+  {
+    question: "BIRTHSTONES: December"
+    answer: "turquoise" 
+  }
+  {
+    question: "BIRTHSTONES: February"
+    answer: "amythest" 
+  }
+  {
+    question: "BIRTHSTONES: January"
+    answer: "garnet" 
+  }
+  {
+    question: "BIRTHSTONES: July"
+    answer: "ruby" 
+  }
+  {
+    question: "BIRTHSTONES: June"
+    answer: "pearl" 
+  }
+  {
+    question: "BIRTHSTONES: March"
+    answer: "aquamarine" 
+  }
+  {
+    question: "BIRTHSTONES: May"
+    answer: "emerald" 
+  }
+  {
+    question: "BIRTHSTONES: November"
+    answer: "topaz" 
+  }
+  {
+    question: "BIRTHSTONES: October"
+    answer: "opal" 
+  }
+  {
+    question: "BIRTHSTONES: September"
+    answer: "sapphire" 
+  }
+  {
+    question: "Biscuit made of ground almonds"
+    answer: "macaroon" 
+  }
+  {
+    question: "bismarck is the capital of ______"
+    answer: "north dakota" 
+  }
+  {
+    question: "Bison is another name for which North American animal"
+    answer: "buffalo" 
+  }
+  {
+    question: "blood can be artificially cleansed via what process"
+    answer: "dialysis" 
+  }
+  {
+    question: "Bloodsucking worm formerly used for medicinal bleeding"
+    answer: "leech" 
+  }
+  {
+    question: "Blossoms 'now look at them yo-yo's, that's the way you do it ..' what is the dire straits song title"
+    answer: "money for nothing" 
+  }
+  {
+    question: "Blue Collar Man (1978) was a hit by what group"
+    answer: "styx" 
+  }
+  {
+    question: "Board game played with dice and counters"
+    answer: "ludo" 
+  }
+  {
+    question: "Board game with pieces moved according to throw of dice"
+    answer: "backgammon" 
+  }
+  {
+    question: "Board in what country would you find the world's largest pyramid"
+    answer: "mexico" 
+  }
+  {
+    question: "Boarding or wooden panelling on the wall of a room"
+    answer: "wainscot" 
+  }
+  {
+    question: "bob carlisle thanks god for all the joy in his life, but most of all for    x    x    x    x    x    x "
+    answer: "butterfly kisses" 
+  }
+  {
+    question: "Bobby Brown is married to which American singer and actress"
+    answer: "whitney houston" 
+  }
+  {
+    question: "bobby hatfield and bill medley formed which dynamite singing duo"
+    answer: "righteous brothers" 
+  }
+  {
+    question: "Bobby locke was the first south african golfer to win which open"
+    answer: "british" 
+  }
+  {
+    question: "bobby locke was the first south african golfer to win which open"
+    answer: "british open" 
+  }
+  {
+    question: "Bodrum in Turkey is on the site of which famous city"
+    answer: "halicarnassus" 
+  }
+  {
+    question: "bogota is the capital of    x    x    x    x    x    x "
+    answer: "colombia" 
+  }
+  {
+    question: "Bogyphobia is the fear of"
+    answer: "the bogeyman" 
+  }
+  {
+    question: "boise is the capital of    x    x    x    x    x    x "
+    answer: "idaho" 
+  }
+  {
+    question: "bolshephobia is a fear of    x    x    x    x    x    x "
+    answer: "bolsheviks" 
+  }
+  {
+    question: "Category: Geography : In which city is the Coliseum located"
+    answer: "rome" 
+  }
+  {
+    question: "Category: Geography : In which city is the Wailing Wall"
+    answer: "jerusalem" 
+  }
+  {
+    question: "Category: Geography : In which city is Wembley Stadium"
+    answer: "london" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Amazon river"
+    answer: "South America" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Amur river"
+    answer: "Asia" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Congo river"
+    answer: "Africa" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Lena river"
+    answer: "Asia" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Mackenzie river"
+    answer: "North America" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Mekong river"
+    answer: "Asia" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Mississippi river"
+    answer: "North America" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Niger river"
+    answer: "Africa" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Nile river"
+    answer: "Africa" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Ob' river"
+    answer: "Asia" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Volga river"
+    answer: "Europe" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Yangtze river"
+    answer: "Asia" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Yellow river"
+    answer: "Asia" 
+  }
+  {
+    question: "Category: Geography : In which continent would you find the Yenisey river"
+    answer: "Asia" 
+  }
+  {
+    question: "Category: Geography : In which country is Angel Falls"
+    answer: "venezuela" 
+  }
+  {
+    question: "Category: Geography : In which country is Brest (NOT Breast;-)"
+    answer: "france" 
+  }
+  {
+    question: "Category: Geography : In which country is Cusco"
+    answer: "peru" 
+  }
+  {
+    question: "Category: Geography : In which country is Loch Ness"
+    answer: "scotland" 
+  }
+  {
+    question: "Category: Geography : In which country is Madras"
+    answer: "india" 
+  }
+  {
+    question: "Category: Geography : In which country is Normandy"
+    answer: "france" 
+  }
+  {
+    question: "Category: Geography : In which country is Sapporo"
+    answer: "japan" 
+  }
+  {
+    question: "Category: Geography : In which country is the Calabria region"
+    answer: "italy" 
+  }
+  {
+    question: "Category: Geography : In which country is the Dalai Lama's palace"
+    answer: "tibet" 
+  }
+  {
+    question: "Category: Geography : In which country is the Great Victoria Desert"
+    answer: "australia" 
+  }
+  {
+    question: "Category: Geography : In which country is the Machu Picchu"
+    answer: "peru" 
+  }
+  {
+    question: "Category: Geography : In which country would you find the Yucatan Peninsula"
+    answer: "mexico" 
+  }
+  {
+    question: "Category: Geography : In which ocean or sea are the Seychelles"
+    answer: "indian" 
+  }
+  {
+    question: "Category: Geography : In which state are Gettysburg and the Liberty Bell"
+    answer: "pennsylvania" 
+  }
+  {
+    question: "Category: Geography : In which state are the Finger Lakes"
+    answer: "new york" 
+  }
+  {
+    question: "Category: Geography : In which state is Appomattax"
+    answer: "virginia" 
+  }
+  {
+    question: "Category: Geography : In which state is Hoover Dam"
+    answer: "arizona" 
+  }
+  {
+    question: "Category: Geography : Name the capital of Italy."
+    answer: "rome" 
+  }
+  {
+    question: "Category: Geography : Name the city at the west end of Lake Superior."
+    answer: "duluth" 
+  }
+  {
+    question: "Category: Geography : Name the continent that consists of a single country."
+    answer: "australia" 
+  }
+  {
+    question: "Category: Geography : Name the desrt located in south-east California."
+    answer: "mojave" 
+  }
+  {
+    question: "Category: Geography : Name the large mountain chain in the eastern U.S.A."
+    answer: "the appalachians" 
+  }
+  {
+    question: "Category: Geography : Name the largest cathedral in the world."
+    answer: "st. peter's" 
+  }
+  {
+    question: "Category: Geography : Name the largest city in Canada"
+    answer: "toronto" 
+  }
+  {
+    question: "Category: Geography : Name the largest island in the world."
+    answer: "greenland" 
+  }
+  {
+    question: "Category: Geography : Name the largest lake in Australia"
+    answer: "eyre" 
+  }
+  {
+    question: "Category: Geography : Name the largest river forming part of the U.S. - Mexican border."
+    answer: "rio grande" 
+  }
+  {
+    question: "Category: Geography : Name the last province to become part of Canada."
+    answer: "newfoundland" 
+  }
+  {
+    question: "Category: Geography : Name the longest river in Asia."
+    answer: "yangtze" 
+  }
+  {
+    question: "Category: Geography : Name the longest river in Nigeria"
+    answer: "niger" 
+  }
+  {
+    question: "Category: Geography : Name the most north-easterly of the 48 contiguous states."
+    answer: "maine" 
+  }
+  {
+    question: "Category: Geography : Name the only Central American country without an Atlantic coastline."
+    answer: "el salvador" 
+  }
+  {
+    question: "Category: Geography : Name the sea between Asia Minor and Greece."
+    answer: "aegean" 
+  }
+  {
+    question: "Category: Geography : Name the sea between Korea and China."
+    answer: "the yellow sea" 
+  }
+  {
+    question: "Category: Geography : Name the sea north of Alaska."
+    answer: "beaufort" 
+  }
+  {
+    question: "Category: Geography : Name the sea north of Murmansk, Russia."
+    answer: "barents" 
+  }
+  {
+    question: "Category: Geography : Name the sea west of Alaska."
+    answer: "bering" 
+  }
+  {
+    question: "Category: Geography : Name the second largest country in Africa."
+    answer: "algeria" 
+  }
+  {
+    question: "Category: Geography : Name the second largest country in South America."
+    answer: "argentina" 
+  }
+  {
+    question: "Category: Geography : Name the second largest lake in North America."
+    answer: "huron" 
+  }
+  {
+    question: "Category: Geography : Name the smallest of the Great Lakes."
+    answer: "ontario" 
+  }
+  {
+    question: "Category: Geography : Name the strait joining the Atlantic Ocean and the Mediterranean Sea."
+    answer: "gibraltar" 
+  }
+  {
+    question: "Category: Geography : Name the U.S. state with the smallest population."
+    answer: "alaska" 
+  }
+  {
+    question: "Category: Geography : Name the world's most photographed and most climbed mountain."
+    answer: "fuji" 
+  }
+  {
+    question: "Category: Geography : Nassau is the capital of which country"
+    answer: "bahamas" 
+  }
+  {
+    question: "Category: Geography : On what island is Honolulu"
+    answer: "oahu" 
+  }
+  {
+    question: "Category: Geography : On what island is Pearl Harbour"
+    answer: "oahu" 
+  }
+  {
+    question: "Category: Geography : On what island is the Blue Grotto"
+    answer: "capri" 
+  }
+  {
+    question: "Category: Geography : On what island is the U.S. naval base, Guantanamo"
+    answer: "cuba" 
+  }
+  {
+    question: "Category: Geography : On what mountain are four presidents' faces carved"
+    answer: "rushmore" 
+  }
+  {
+    question: "Category: Geography : On what peninsula are Spain and Portugal located"
+    answer: "the iberia n peninsula" 
+  }
+  {
+    question: "Category: Geography : On what river is the capital city of Canada"
+    answer: "ottawa" 
+  }
+  {
+    question: "Category: Geography : On which river is London, England"
+    answer: "thames" 
+  }
+  {
+    question: "Category: Geography : On which river is Rome located"
+    answer: "tiber" 
+  }
+  {
+    question: "Category: Geography : On which river is the Aswan High Dam"
+    answer: "nile" 
+  }
+  {
+    question: "Category: Tea: Better teabags contain these small particles sifted out of better teas"
+    answer: "fannings" 
+  }
+  {
+    question: "Category: Tea: In this country, tea leaves are pickled and used as a vegetable relish"
+    answer: "burma" 
+  }
+  {
+    question: "Category: Tea: The first sprouting of Darjeeling tea leaves in the spring are called this"
+    answer: "first flush" 
+  }
+  {
+    question: "Category: Tea: The practice of steeping tea was developed during this Chinese dynasty"
+    answer: "ming" 
+  }
+  {
+    question: "Category: Tea: This black tea is flavoured with oil of bergamot, an aromatic Chinese orange"
+    answer: "earl grey" 
+  }
+  {
+    question: "Category: This delightfully soft topping, care of your local bovine."
+    answer: "cheese" 
+  }
+  {
+    question: "A parthenophobic has a fear of?"
+    answer: "virgins" 
+  }
+  {
+    question: "Ablutophobia is the fear of?"
+    answer: "bathing" 
+  }
+  {
+    question: "Acarophobia is the fear of"
+    answer: "itching" 
+  }
+  {
+    question: "Acetylsalicylic acid is the active ingredient in which well known drug"
+    answer: "aspirin" 
+  }
+  {
+    question: "Acerophobia is the fear of"
+    answer: "sourness" 
+  }
+  {
+    question: "Aeroacrophobia is the fear of"
+    answer: "open high places" 
+  }
+  {
+    question: "Aeronausiphobia is the fear of"
+    answer: "vomiting" 
+  }
+  {
+    question: "Aerophobia is the fear of"
+    answer: "drafts" 
+  }
+  {
+    question: "Aeruophobia is the fear of"
+    answer: "flying" 
+  }
+  {
+    question: "Amathophobia is the fear of"
+    answer: "dust" 
+  }
+  {
+    question: "Amaxophobia is the fear of"
+    answer: "riding in a car" 
+  }
+  {
+    question: "Amaxophobia is the fear of"
+    answer: "vehicles" 
+  }
+  {
+    question: "Amboise in the Loire valley, where Leonardo da Vinci is buried, is now famous for the manufacture of what"
+    answer: "viagra" 
+  }
+  {
+    question: "Ambrosia, darkling and death watch are all kinds of what"
+    answer: "beetles" 
+  }
+  {
+    question: "Ambulophobia is the fear of"
+    answer: "walking" 
+  }
+  {
+    question: "Gymnophobia is the fear of"
+    answer: "nudity" 
+  }
+  {
+    question: "Gynophobia is the fear of"
+    answer: "women" 
+  }
+  {
+    question: "Heliophobia is the fear of"
+    answer: "the sun" 
+  }
+  {
+    question: "Kymophobia is the fear of"
+    answer: "waves" 
+  }
+  {
+    question: "Kynophobia is the fear of"
+    answer: "rabies" 
+  }
+  {
+    question: "Kyphophobia is the fear of"
+    answer: "stooping" 
+  }
+  {
+    question: "Meteorophobia is the fear of"
+    answer: "meteors" 
+  }
+  {
+    question: "Mexican liquor made from agave"
+    answer: "tequila" 
+  }
+  {
+    question: "Metrophobia is the fear of"
+    answer: "poetry" 
+  }
+  {
+    question: "Methyphobia is the fear of"
+    answer: "alcohol" 
+  }
+  {
+    question: "Metathesiophobia is the fear of"
+    answer: "changes" 
+  }
+  {
+    question: "The only fire pokémon that learn Powder Snow?"
+    answer: "Castform (Sunny Form)" 
+  }
+  {
+    question: "The move known by most pokémon (excluding struggle)?"
+    answer: "Hidden Power (634)" 
+  }
+  {
+    question: "The legendary pokémon that doesn't learn Protection?"
+    answer: "Regigigas" 
+  }
+  {
+    question: "A third-stage pokémon that can be obtained at the lowest level?"
+    answer: "Porygon-Z" 
+  }
+  {
+    question: "The move known by fewest pokémon (excluding Sketch)?"
+    answer: "Chatter" 
+  }
+  {
+    question: "The only mono-type pokémon that can learn Acupressure?"
+    answer: "Maractus" 
+  }
+  {
+    question: "The only V-generation pokémon that doesn't learn TM?"
+    answer: "Tynamo" 
+  }
+  {
+    question: "The only non-Ice-type pokémon used by Lorelei?"
+    answer: "Slowbro" 
+  }
+  {
+    question: "The only type not represented by a Gym Leader?"
+    answer: "Dark" 
+  }
+  {
+    question: "The only pokémon that gain STAB with Explosion (excluding Smeargle)?"
+    answer: "Lickilicky" 
+  }
+  {
+    question: "The smallest pokémon?"
+    answer: "Joltik" 
+  }
+  {
+    question: "The largest pokémon?"
+    answer: "Wailord" 
+  }
+  {
+    question: "The move known by fewest pokémon (excluding Sketch)?"
+    answer: "Chatter" 
+  }
+  {
+    question: "The heaviest pokémon?"
+    answer: "Groudon" 
+  }
+  {
+    question: "The only non-legendary genderless pokémon that can learn Attract?"
+    answer: "Cryogonal" 
+  }
+  {
+    question: "The lightest pokémon?"
+    answer: "Gastly" 
+  }
+  {
+    question: "The only wild pokémon that can hold a Light Clay?"
+    answer: "Golett" 
+  }
+  {
+    question: "The only pokémon that can have both Vital Spirit and Insomnia?"
+    answer: "Delibird" 
+  }
+  {
+    question: "pokemon: The Dark type move with the highest base power?"
+    answer: "Judgement by Dark Arceus" 
+  }
+  {
+    question: "The wild pokémon that can be found at the highest level?"
+    answer: "Magikarp" 
+  }
+  {
+    question: "The first pokémon (in pokédex order) whose name contains another pokémon name?"
+    answer: "Pidgeotto" 
+  }
+  {
+    question: "pokemon: The only dual-type pokémon that can learn Simple Beam?"
+    answer: "Genesect" 
+  }
+  {
+    question: "pokemon: The evolved pokémon with the highest catch rate?"
+    answer: "Watchog" 
+  }
+  {
+    question: "pokemon: The minimum level at which Gallade is obtainable?"
+    answer: "six" 
+  }
+  {
+    question: "pokemon: The minimum number of enemy pokémon needed to know the type of Hidden Power"
+    answer: "three" 
+  }
+  {
+    question: "pokemon: The pokémon with the fewest total base stats?"
+    answer: "Sunkern" 
+  }
+  {
+    question: "Southpark: Where do the boys go to be pirates?"
+    answer: "Somalia"
+  }
+  {
+    question: "Southpark: What TV station is Randy obsessed with?" 
+    answer: "Food Network"
+  }
+  {
+    question: "Southpark: What happens to money in the bank in Margaritaville?" 
+    answer: "Disappears"
+  }
+  {
+    question: "Southpark: What kind of cancer did randy intentionally get?" 
+    answer: "Testicular"
+  }
+  {
+    question: "Southpark: What did the boys think they were getting when they got Starvin Marvin instead?" 
+    answer: "Watch"
+  }
+  {
+    question: "Southpark: What school is Southpark's rival?" 
+    answer: "Middle Park"
+  }
+  {
+    question: "Southpark: What note did Cartman and Kenny find on their recorders?" 
+    answer: "Brown Noise"
+  }
+  {
+    question: "Southpark: What supplement makes Cartman extremely obese?" 
+    answer: "Weight Gain 4000"
+  }
+  {
+    question: "Southpark: What is the name of the company that provided future selfs?" 
+    answer: "Motivation Corp"
+  }
+  {
+    question: "Southpark: With whom does Mr. Garrison temporarily replace Mr. Hat with?" 
+    answer: "Mr. Twig"
+  }
+  {
+    question: "Southpark: What does Cartman give Scott Tenorman money for?" 
+    answer: "Pubes"
+  }
+  {
+    question: "Southpark: What color is Kenny's hair?" 
+    answer: "Blonde"
+  }
+  {
+    question: "Southpark: What does Mr. Jefferson like to do?" 
+    answer: "Play"
+  }
+  {
+    question: "Southpark: Who ran against Ike for class president?" 
+    answer: "Filmore"
+  }
+  {
+    question: "Southpark: Who's a dick?" 
+    answer: "Scott"
+  }
+  {
+    question: "Southpark: What animal did Kyle's dad want to be?" 
+    answer: "Dolphin"
+  }
+  {
+    question: "Southpark: If you like fishsticks, what are you?" 
+    answer: "Gay Fish"
+  }
+  {
+    question: "Southpark: What is Tweek afraid of?" 
+    answer: "Underpants Gnomes"
+  }
+  {
+    question: "Southpark: Who can't play basketball?" 
+    answer: "Jews"
+  }
+  {
+    question: "Southpark: What were Kyle's three strikes in the Jersey Shore episode?" 
+    answer: "Ginger Jew Jersey"
+  }
+  {
+    question: "Southpark: What animal does Paris Hilton dress up Butters as?" 
+    answer: "Bear"
+  }
+  {
+    question: "Southpark: What is Cartman's frog's name?" 
+    answer: "Clyde"
+  }
+  {
+    question: "Southpark: Who sponsored Cartman's nascar?" 
+    answer: "Vagisil"
+  }
+  {
+    question: "Southpark: Chef leads the townspeople in a fight against a group of what?" 
+    answer: "Turkeys"
+  }
+  {
+    question: "Southpark: What is Jesus's talk show called?" 
+    answer: "Jesus and Pals"
+  }
+  {
+    question: "Southpark: What is the name of the book Butters wrote?" 
+    answer: "The Poop That Took a Pee"
+  }
+  {
+    question: "Southpark: What subject did the teacher whose house got toilet papered teach?" 
+    answer: "Art"
+  }
+  {
+    question: "Southpark: What causes sex addiction?" 
+    answer: "Money"
+  }
+  {
+    question: "Southpark: What pissed Cartman off at the waterpark?" 
+    answer: "Minorities"
+  }
+  {
+    question: "Southpark: Who is Cartman's father?" 
+    answer: "Jack Tenorman"
+  }
+  {
+    question: "Southpark: Who did Cartman accuse Wendy of intending to kill?" 
+    answer: "Smurfs"
+  }
+  {
+    question: "Southpark: According to Butters, who is the most beautiful woman in the world?" 
+    answer: "Kim Kardashian"
+  }
+  {
+    question: "Southpark: Who was the student who was sent by Satan?" 
+    answer: "Damien"
+  }
+  {
+    question: "Southpark: What did the Iraqi children give to the boys?" 
+    answer: "Goat"
+  }
+  {
+    question: "Southpark: What is the name of Stan's dog?" 
+    answer: "Sparky"
+  }
+  {
+    question: "Southpark: Who do the boys call when Ike sees dead celebrities?" 
+    answer: "Ghost Hunters"
+  }
+  {
+    question: "Southpark: Where were these celebrities stuck?" 
+    answer: "Purgatory"
+  }
+  {
+    question: "Southpark: What group of people cannot get in trouble anymore?" 
+    answer: "Black People"
+  }
+  {
+    question: "Southpark: What is Cartman's middle name?" 
+    answer: "Theodore"
+  }
+  {
+    question: "Southpark: What can Mysterion not do?" 
+    answer: "Die"
+  }
+  {
+    question: "Southpark: What was Kenny's girlfriend's name?" 
+    answer: "Tammy"
+  }
+  {
+    question: "Southpark: Where did Kenny want to take her?" 
+    answer: "TGI Fridays"
+  }
+  {
+    question: "Southpark: Who does Jesus have a boxing match with on Cartman's birthday?" 
+    answer: "Satan"
+  }
+  {
+    question: "Southpark: Who did Mickey Mouse think hired the boys to sabotage the Jonas Brothers concert?" 
+    answer: "Dreamworks"
+  }
+  {
+    question: "Southpark: What do the vampire kids hate being called?" 
+    answer: "Goth"
+  }
+  {
+    question: "Southpark: What store was the source of the vampire craze?" 
+    answer: "Hot Topic"
+  }
+  {
+    question: "Southpark: What did Barak Obama and John McCain constantly say to each other?" 
+    answer: "Boom Baby"
+  }
+  {
+    question: "Southpark: Where are Peruvian flute bands sent?" 
+    answer: "Guantanamo Bay"
+  }
+  {
+    question: "Southpark: Where do homeless people eventually go?" 
+    answer: "California"
+  }
+  {
+    question: "Southpark: What did Cartman call his anti-china group?" 
+    answer: "American Liberation Front"
+  }
+  {
+    question: "Southpark: Where does the class take a field trip to where workers dont break character?" 
+    answer: "Pioneer Village"
+  }
+  {
+    question: "Southpark: Where do Cartman and Butters go instead?" 
+    answer: "Super Fun Time"
+  }
+  {
+    question: "Southpark: Who is Shelly's pen pal?" 
+    answer: "Amir"
+  }
+  {
+    question: "Southpark: What is the 'White People Method' according to Cartman?" 
+    answer: "Cheating"
+  }
+  {
+    question: "Southpark: What is Cartman's cat's name?" 
+    answer: "Mr. Kitty"
+  }
+  {
+    question: "Southpark: What did Canada want when they went on strike?" 
+    answer: "More Money"
+  }
+  {
+    question: "Southpark: What is the slang word for the cat piss drug craze?" 
+    answer: "Cheesing"
+  }
+  {
+    question: "Southpark: What did the boys take a picture of Britney Spears crapping on?" 
+    answer: "Squirrel"
+  }
+  {
+    question: "Southpark: Who sang at Cartman's AIDS awareness event?" 
+    answer: "Jimmy Buffet"
+  }
+  {
+    question: "Southpark: Who is the hottest guy in school, according to the list?" 
+    answer: "Clyde"
+  }
+  {
+    question: "Southpark: When Kyle thinks he's ugly, whose ghost visits him?" 
+    answer: "Abe Lincoln"
+  }
+  {
+    question: "Southpark: What is the message on the guitar hero screen after 1 million points?" 
+    answer: "You Are Fags"
+  }
+  {
+    question: "Southpark: Who is the only one worried about Manbearpig?" 
+    answer: "Al Gore"
+  }
+  {
+    question: "Southpark: What show was Cartman gonna go on when he had tourettes?" 
+    answer: "Dateline"
+  }
+  {
+    question: "Southpark: What was Saint Peter?" 
+    answer: "Rabbit"
+  }
+  {
+    question: "Southpark: What does Cartman inject himself with when interrogating Bahir's parents?" 
+    answer: "Apple Juice"
+  }
+  {
+    question: "Southpark: Who defeated Stan's peewee hockey team?" 
+    answer: "Red Wings"
+  }
+  {
+    question: "Southpark: What can Cartman not wait for when he freezes himself?" 
+    answer: "Nintendo Wii"
+  }
+  {
+    question: "Southpark: What does Satan want his birthday cake to be shaped like?" 
+    answer: "Ferrari"
+  }
+  {
+    question: "Southpark: What was the title of Towelie's memoirs?" 
+    answer: "A Million Little Fibers"
+  }
+  {
+    question: "Southpark: Mr. Garrison says Muslims are angry because they live in ?"
+    answer: "Sand"
+  }
+  {
+    question: "Southpark: Where do the Broflowskis move in Smug Alert?" 
+    answer: "San Francisco"
+  }
+  {
+    question: "Southpark: What disease does Randy have when he sees the Bloody Mary statue?" 
+    answer: "Alcoholism"
+  }
+  {
+    question: "Southpark: Where do the boys send Willzyx?" 
+    answer: "Moon"
+  }
+  {
+    question: "Southpark: What was the name of the prostitute that Jimmy went on a date with?" 
+    answer: "Nut Gobbler"
+  }
+  {
+    question: "Southpark: In Quest for Ratings, what is Butters looking for in his segment?" 
+    answer: "Celebrities"
+  }
+  {
+    question: "Southpark: What did the boys pretend to be in preschool?" 
+    answer: "Firemen"
+  }
+  {
+    question: "Southpark: What is Butters' girlfriend's name?" 
+    answer: "Lexus"
+  }
+  {
+    question: "Southpark: What was the group that advocated non smoking called?" 
+    answer: "Butt Out"
+  }
+  {
+    question: "Southpark: What is Cartman's favorite place in the whole world?" 
+    answer: "Casa Bonita"
+  }
+  {
+    question: "Southpark: What is the name of Cartman's Christian rock band?" 
+    answer: "Faith Plus One"
+  }
+  {
+    question: "Southpark: What did Cartman think Kenny's ashes were?" 
+    answer: "Chocolate Milk Mix"
+  }
+  {
+    question: "Southpark: What did the boys build so they could see Kenny again?" 
+    answer: "Ladder to Heaven"
+  }
+  {
+    question: "Southpark: What is the name of the greatest porno ever?" 
+    answer: "Backdoor Sluts Nine"
+  }
+  {
+    question: "Southpark: Whose boobs destroyed society?" 
+    answer: "Bebe"
+  }
+  {
+    question: "Southpark: Who is Professor Chaos' sidekick?" 
+    answer: "General Disarray"
+  }
+  {
+    question: "Southpark: What was the German's invention that almost killed everyone?" 
+    answer: "Funnybot"
+  }
+  {
+    question: "Southpark: Who do the boys discover is not real in Crack Baby Athletic Association?" 
+    answer: "Slash"
+  }
+  {
+    question: "Southpark: When Kenny goes to the orphanage, what is the only drink in the fridge?" 
+    answer: "Dr. Pepper"
+  }
+  {
+    question: "Southpark: According to those parents, what is the correct answer to the question, 'is there a God'?" 
+    answer: "I dont know"
+  }
+  {
+    question: "Southpark: Where does Token start buying his clothes so he can fit in?" 
+    answer: "J Mart"
+  }
+  {
+    question: "Southpark: What is Mr. Garrison's transportation invention callled?" 
+    answer: "It"
+  }
+  {
+    question: "Southpark: What marketing technique did Cartman use with his theme park?" 
+    answer: "You Cant Come"
+  }
+  {
+    question: "Southpark: What is the disabled turkey's name?" 
+    answer: "Gobbles"
+  }
+  {
+    question: "Southpark: Do the handicapped go to hell?" 
+    answer: "Probably"
+  }
+  {
+    question: "Southpark: What is the group that Cartman joins in hopes of gaining more mature friends?" 
+    answer: "NAMBLA"
+  }
+  {
+    question: "Southpark: What does Cartman get in the first episode?" 
+    answer: "Anal Probe"
+  }
+  {
+    question: "Southpark: What state is Southpark located in?" 
+    answer: "Colorado"
+  }
+  {
+    question: "Southpark: What is Kyle's dorky cousin's name?" 
+    answer: "Kyle"
+  }
+  {
+    question: "Southpark: Who are the creators of Southpark?" 
+    answer: "Trey Parker and Matt Stone"
+  }
+  {
+    question: "In the game ‘Metal Gear Solid’,who is the twin brother of Solid Snake?"
+    answer: "Liquid Snake"
+  }
+  {
+    question: "In the game ‘Mortal Kombat’, what phrase is heard when Scorpion uses his spear?"	
+    answer: "Get over here"
+  }
+  {
+    question: "In video gaming, what is the name of the princess whom Mario repeatedly stops Bowser from kidnapping?"	
+    answer: "Princess Peach"
+  }
+  {
+    question: "In video games, what is the name of Sonic the Hedgehog’s sidekick?"	
+    answer: "Miles Prower/Tails"
+  }
+  {
+    question: "What is the name of the gang member that video game ‘Grand Theft Auto: San Andreas’ revolves around?"	
+    answer: "Carl CJ Johnson"
+  }
+  {
+    question: "How many rows of aliens are there usually at the start of a ‘Space Invaders’ game?"	
+    answer: "Five"
+  }
+  {
+    question: "How many square blocks is each game piece composed of in the game of ‘Tetris’?"	
+    answer: "Four"
+  }
+  {
+    question: "What is the name of the fictional English archaeologist in the game ‘Tomb Raider’?"	
+    answer: "Lara Croft"
+  }
+  {
+    question: "In the game ‘Doom’, which planet is the space marine posted to after assaulting his commanding officer?"	
+    answer: "Mars"
+  }
+  {
+    question: "In the computer game ‘The Sims’, how many Simoleons does each family start the game with?"	
+    answer: "twenty-thousand"
+  }
+  {
+    question: "Who plays Mario Mario in the 1993 film ‘Super Mario Bros’?"	
+    answer: "Bob Hoskins"
+  }
+  {
+    question: "Which Playstation 2 game, released in 2003, was banned by several countries and implicated by the media in a murder, due to its graphic violence?"	
+    answer: "Manhunt"
+  }
+  {
+    question: "Slade, Reese, Jericho and Roland Kane are all characters in which game?"	
+    answer: "Turok"
+  }
+  {
+    question: "Which 1997 Playstation game’s opening song is a Chemical Brothers remix of the Manic Street Preachers song ‘Everything Must Go’?"	
+    answer: "Gran Turismo"
+  }
+  {
+    question: "Which 1986 Nintendo game is set in the fantasy land of Hyrule, and centres on a boy named Link?"	
+    answer: "The Legend of Zelda"
+  }
+  {
+    question: "In video games, what colour is Pac-Man?"	
+    answer: "Yellow"
+  }
+  {
+    question: "‘Black Ops’ is the subtitle of which game?"	
+    answer: "Call of Duty"
+  }
+  {
+    question: "Pikachu is one of the species of creatures in which series of games?"	
+    answer: "Pokemon"
+  }
+  {
+    question: "Jumpman’s goal is to save the Lady from the giant ape in which 1981 arcade game?"	
+    answer: "Donkey Kong"
+  }
+  {
+    question: "The Covenant are fictional military alien races in which game series?"	
+    answer: "Halo"
+  }
+  {
+    question: "Chicken Soup was regarded as a what in the Middle Ages ?"
+    answer: "aphrodisiac"
+  }
+  {
+    question: "Who was the original Peeping Tom looking at?"
+    answer: "Lady Godiva"
+  }
+  {
+    question: "In ancient Greece aristocratic women were deflowered with what?"
+    answer: "a stone penis"
+  }
+  {
+    question: "Ejaculation comes from the Latin word meaning what?"
+    answer: "Throwing Out"
+  }
+  {
+    question: "What creature will only mate if the females mouth is full?"
+    answer:"Spiders"
+  }
+  {
+    question: "In Minnesota what pleasurable activity is totally illegal?"
+    answer: "Oral Sex"
+  }
+  {
+    question: "What sexual practice is maritate?"
+    answer:"Female masturbation"
+  }
+  {
+    question: "In Japan, what is Sekkusu ?"
+    answer: "Sex"
+  }
+  {
+    question: "Only 30% of women do what?"
+    answer: "Swallow"
+  }
+  {
+    question: "Harmatophobia is the fear of what?"
+    answer: "Sexual Incompetence"
+  }
+  {
+    question: "What creatures sex act lasts two seconds?"
+    answer: "a Mosquito"
+  }
+  {
+    question: "Most of what kind of  animals are bisexual ?"
+    answer: "Giraffe"
+  }
+  {
+    question: "Records show that four Popes died doing what?"
+    answer: "Having sex"
+  }
+  {
+    question: "What sexually arouses a Jactitator?"
+    answer: "Bragging about sex"
+  }
+  {
+    question: "How did Billie Holiday get the nickname Lady?"
+    answer: "She refused to pickup tips with her vagina"
+  }
+  {
+    question: "What turns you on If you have Dorophillia?"
+    answer: "Animal Skins or furs"
+  }
+  {
+    question: "Where was evidence of the first recorded brothel found?"
+    answer: "Athens Greece"
+  }
+  {
+    question: "What's the most popular flavor of eddible panties?"
+    answer: "Cherry"
+  }
+  {
+    question: "What is named after Dr Ernest Grafenberg?"
+    answer: "The G spot"
+  }
+  {
+    question: "Penis comes from the Latin meaning what?"
+    answer: "Tail"
+  }
+  {
+    question: "Dvize faps left or right handed?"
+    answer: "both"
+  }
+  {
+    question: "Nazikun is the artist formerly known as?"
+    answer: "Lexikun"
+  }
+  {
+    question: "In the first Scream, what was Stu's motive for the killings?"
+    answer: "Peer Pressure"
+  }
+  {
+    question: "How fast did the bus in the movie Speed need to go in order not to blow up?"
+    answer: "below 50mph"
+  }
+  {
+    question: "What event was the interview of the Natural Born Killer, Mickey, to be held during?"
+    answer: "The Superbowl"
+  }
+  {
+    question: "Who ordered the Code Red in 'A Few Good Men'?"
+    answer: "Colonel Nathan P. Jessup"
+  }
+  {
+    question: "What was the print left on the car in the boat in the movie Titanic?"
+    answer: "A handprint"
+  }
+  {
+    question: "what does michelle remeber the formula for in Romy and Michelle's High School Renuion?"
+    answer: "post-it glue"
+  }
+  {
+    question: "Who did Sidney say would play her in Scream 2?"
+    answer: "Tori Spelling"
+  }
+  {
+    question: "Who's head did Courtney Cox say was on her body in Scream 2?"
+    answer: "Jennifer Aniston"
+  }
+  {
+    question: "What was the name of Milla Jovovich's character in the Fifth Element?"
+    answer: "Lelu"
+  }
+  {
+    question: "In Jumanji, a stampede is released. What is the slowest animal?"
+    answer: "Rhinoceros"
+  }
+  {
+    question: "Who was the sponsor for the tv show Wayne's World?"
+    answer: "Noahs Arcade"
+  }
+  {
+    question: "How old was deputy Dewey in the first scream?"
+    answer: "twenty-five"
+  }
+  {
+    question: "Who did Leonardo DiCaprio play in the movie Titanic?"
+    answer: "Jack Dawson"
+  }
+  {
+    question: "Who was the latin bombshell that played Selena in the Selena bio-pic?"
+    answer: "Jennifer Lopes"
+  }
+  {
+    question: "What was Adam Sandler's occupation in Big Daddy?"
+    answer: "A tollbooth worker"
+  }
+  {
+    question: "What was the name of Matt Dillon's band in Singles?"
+    answer: "Citizen Dick"
+  }
+  {
+    question: "In the movie Office Space, what item did Peter pull from the rubble?"
+    answer: "A red stapler"
+  }
+  {
+    question: "In Independence Day, What does Will Smith yell as he blasts off in the space ship?"
+    answer: "I gotta get me one of these"
+  }
+  {
+    question: "Who played Julie's best friend in I still know what you did last summer?"
+    answer: "Brandy"
+  }
+  {
+    question: "What movie were the passengers on the plane in Executive Desicion watching?"
+    answer: "Born to be Wild"
+  }
+  {
+    question: "Who pulls Wayne over in Wayne's World?"
+    answer: "Robert Patrick"
+  }
+  {
+    question: "Who was the original killer in Friday the 13th?"
+    answer: "Jasons mother"
+  }
+  {
+    question: "In the movie Next Friday what is the name of the vicious dog?"
+    answer: "Chico"
+  }
+  {
+    question: "In the film, Jerry McGuire, what was the name of Jerry's stepson?"
+    answer: "Ray"
+  }
+  {
+    question: "In Matilda what was the name of Matilda's teacher?"
+    answer: "Jennifer Honey"
+  }
+  {
+    question: "What was in Catherine's crucifix in the movie Cruel Intentions?"
+    answer: "Cocaine"
+  }
+  {
+    question: "What major law was violated in the movie Smokey and the Bandit?"
+    answer: "Smuggling beer"
+  }
+  {
+    question: "What was Rizzo's real name in Grease?"
+    answer: "Betty"
+  }
+  {
+    question: "Which relative of John Travolta's made a cameo appearance in Saturday Night Fever?"
+    answer: "his mother"
+  }
+  {
+    question: "In Blazing Saddles, what is the last name of everybody in the town of Rock Ridge?"
+    answer: "Johnson"
+  }
+  {
+    question: "In Holloween, Michael Meyers wore a Halloween mask of what famous character?"
+    answer: "Captain Kirk mask"
+  }
+  {
+    question: "Who was the star of the post appocolyptic sci-fi film A boy and his Dog?"
+    answer: "Don Johnson"
+  }
+  {
+    question: "In Soylent Green, what was the last resort used for riot control?"
+    answer: "scoups"
+  }
+  {
+    question: "What was the name of the monster that attacked Luke in the trash compactor in Star Wars?"
+    answer: "A dianogaIn"
+  }
+  {
+    question: "Texas Chainsaw Massacre, there was a guy in a wheelchair. What was his name?"
+    answer: "Franklin"
+  }
+  {
+    question: "What other relative of Travolta's made a cameo in Saturday Night Fever"
+    answer: "His sister"
+  }
+  {
+    question: "In Halloween, what is Michael Myers' middle name?"
+    answer: "Audrey"
+  }
+  {
+    question: "In Animal House, what was Bluto's grade point average?"
+    answer: "0.0"
+  }
+  {
+    question: "What special talent did Molly Ringwald have in The Breakfast Club?"
+    answer: "She could apply lipstick with her breasts"
+  }
+  {
+    question: "What was the very first James Bond movie that was shown in the 80's?"
+    answer: "For Your Eyes Only"
+  }
+  {
+    question: "Name the actress who played the pretty blond girl Elliot danced with in E.T. The Extra-Terrestrial?"
+    answer: "Erika Eleniak"
+  }
+  {
+    question: "How many Nightmare On Elm Street movies were made in the 80's?"
+    answer: "five"
+  }
+  {
+    question: "In Empire Strikes Back, what was chewing on the power cables of the Millenium Falcon while Han Solo and company were hiding inside the asteroid cave?"
+    answer: "Mynocks"
+  }
+  {
+    question: "What was the license number on the Ghostbusters' car?"
+    answer: "ECTO-1"
+  }
+  {
+    question: "In 'Back To The Future', where did Doc Brown get the plutonium to power the time-travelling DeLorean?"
+    answer: "Lybian terrorists"
+  }
+  {
+    question: "'Empire Strikes Back' when the ghost of Obi Wan Kenobi said that Luke was their last hope against the Empire, who was Yoda refering to when he said: 'No, there is another'?"
+    answer: "Princess Leia"
+  }
+  {
+    question: "What god were the Thugees worshipping in 'Indiana Jones and the Temple of Doom'?"
+    answer: "Kali"
+  }
+  {
+    question: "In the movie Porkey's, why did they call Meat Tuperello 'Meat'?"
+    answer: "Because of the size of his penis"
+  }
+  {
+    question: "'In the movie 'Aliens', what was Newt's real name?"
+    answer: "Rebecca Jorden"
+  }
+  {
+    question: "What does Ally Sheedy use to decorate her picture in the Breakfast Club?"
+    answer: "Dandruff"
+  }
+  {
+    question: "In 'Dirty Dancing' what was Baby's real name?"
+    answer: "Frances"
+  }
+  {
+    question: "What were Mouth and Chunk's real names in 'The Goonies'?"
+    answer: "Clark and Lawrence"
+  }
+  {
+    question: "In the Breakfast Club, What did Brian try to kill himself with?"
+    answer: "A flare gun"
+  }
+  {
+    question: "What future famous actors played Spicolli's sidekicks in Fast Times at Ridgemont High?"
+    answer: "Eric Stolz and Anthony Edwards"
+  }
+  {
+    question: "What is the name of the Freelings' dog in 'Poltergeist'?"
+    answer: "Ebuzz"
+  }
+  {
+    question: "What is the name of Sarah's brother that she is trying to save in 'The Labyrinth'?"
+    answer: "Toby"
+  }
+  {
+    question: "How does Alice kill Freddy Krueger in 'Nightmare on Elm Street 4'?"
+    answer: "with a mirror"
+  }
+  {
+    question: "In 'Innerspace', what did the license plate on Igoe's BMW say?"
+    answer: "SNAPON"
+  }
+  {
+    question: "In 'The Blues Brothers', what does SCMODS stand for?"
+    answer: "State County Municipal Offender Data Systems"
+  }
+  {
+    question: "In 1989's 'The Little Mermaid', what was Scuttle's name for a fork?"
+    answer: "Dinglehopper"
+  }
+  {
+    question: "Who was told they 'better think' in the Blues Brothers?"
+    answer: "Guitar Murphy"
+  }
+  {
+    question: "What was the title of Kevin's byline story in St. Elmos Fire?"
+    answer: "The Meaning Of Life"
+  }
+  {
+    question: "In the movie 'The Goonies' what brand of candybar did Chunk try to give to Sloth?"
+    answer: "Baby Ruth "
+  }
+  {
+    question: "The main street in Back to the Future is also the main street in what other 80's movie?"
+    answer: "Gremlins"
+  }
+  {
+    question: "In Grease Two what does stephanie want in a boyfriend?"
+    answer: "A cool rider"
+  }
+  {
+    question: "What brand and color of underwear is Marty wearing in Back to the Future?"
+    answer: "Purple Calvin Klein briefs"
+  }
+  {
+    question: "In 'The Karate Kid' what color did Daniel have to paint Miagi's house, as part of his training"
+    answer: "Green"
+  }
+  {
+    question: "In National Lampoon's Vacation, what did the Griswalds call their ugly green station wagon?"
+    answer: "The Family Truckster"
+  }
+  {
+    question: "In which California city does Poltergeist take place?"
+    answer: "Cuesta Verde"
+  }
+  {
+    question: "What did Fletch's initials (I. M.) stand for?"
+    answer: "Irwin Maurice"
+  }
+  {
+    question: "In 'Ferris Beuller's Day Off,' who plays the burnout at the police station that Jeanie kisses?"
+    answer: "Charlie Sheen"
+  }
+  {
+    question: "In 'Running Scared,' how much money does Billy Crystal's character inherit from his dead aunt Rose?"
+    answer: "fifty thousand"
+  }
+  {
+    question: "In 'The Golden Child,' what object does the Child animate to amuse his captor?"
+    answer: "A Coke can"
+  }
+  {
+    question: "What does Ally Sheedy say she likes to drink in the Breakfast Club?"
+    answer: "Vodka"
+  }
+  {
+    question: "In 'Spaceballs' what does the bumper sticker say on the back of Lonestar's ship?"
+    answer: "I love Uranus"
+  }
+  {
+    question: "What is the robots name in the movies 'Short Circuit 1 and 2?"
+    answer: "Johnny"
+  }
+  {
+    question: "What is Indiana Jones main weapon?"
+    answer: "His whip"
+  }
+  {
+    question: "How high could the Klopek's furnace go in The 'burbs?"
+    answer: "5000 degrees"
+  }
+  {
+    question: "What is the occupation of Tom Hanks' character in Bachelor Party?"
+    answer: "School Bus Driver"
+  }
+  {
+    question: "In Beverly Hills Cop, how does Axel Foley escape the police car that is sent to follow him?"
+    answer: "a banana in the tailpipe"
+  }
+  {
+    question: "What kind of car does Nick Nolte's character in 48 hours?"
+    answer: "A sky blue Cadillac convertible"
+  }
+  {
+    question: "In the movie 'One Crazy Summer' what was the movie that was being made on the island called?"
+    answer: "Foam 2"
+  }
+  {
+    question: "What happens to Wanda in 'A Fish Called Wanda'?"
+    answer: "Wanda is eaten"
+  }
+  {
+    question: "In Ferris Bueller's Day Off, what is the Principal's name?"
+    answer: "Mr. Ed Rooney"
+  }
+  {
+    question: "In the Breakfast Club, Bender tells a joke without a punchline. What was the naked blonde carrying under her arms?"
+    answer: "A two foot salami and a poodle"
+  }
+  {
+    question: "In Ferris Buellers Day Off, who is Cameron going to marry?"
+    answer: "The first girl he lays"
+  }
+  {
+    question: "In 'St. Elmo's Fire,' What city does Billy go to at the end?"
+    answer: "New York"
+  }
+  {
+    question: "What is the name of the evil spirit in Polterguise?"
+    answer: "Kane"
+  }
+  {
+    question: "What famous director makes a cameo appearance in the Blues Brothers?"
+    answer: "Steven Spielberg"
+  }
+  {
+    question: "How did Indiana previously know Marion in Raiders of the Lost Ark?"
+    answer: "He studied with her Father"
+  }
+  {
+    question: "Who played the best friend of Sarah Jessica Parker in 'Girls Just Wanna Have Fun'?"
+    answer: "Helen Hunt"
+  }
+  {
+    question: "What fraternity do the Lewis and Gilbert join in Revenge of the Nerds?"
+    answer: "Lambda Lambda Lambda"
+  }
+  {
+    question: "By what Alias does Ferris Bueller get into Chez Luis?"
+    answer: "Abe Frohman"
+  }
+  {
+    question: "In the movie 'Sixteen Candles,' what was Sam's grandparents exchange students name?"
+    answer: "Long Duck Dong"
+  }
+  {
+    question: "In the 1983 movie 'National Lampoon's Vacation,' where were the Griswolds headed on their cross country trip?"
+    answer: "WalleyWorld"
+  }
+  {
+    question: "In the movie 'Stand By Me', what did Gordy, Chris, Vern and Teddy set out to find?"
+    answer: "A Body"
+  }
+  {
+    question: "In the movie 'Tootsie' what was the name of the woman who was played by cross-dressing Dustin Hoffmann?"
+    answer: "Dorthy Michaels"
+  }
+  {
+    question: "What is the line in Labrynith that Sarah can never remember?"
+    answer: "You have no power over me"
+  }
+  {
+    question: "In the movie 'Rainman', what was the only airline that Raymond said had never crashed?"
+    answer: "Quantas"
+  }
+  {
+    question: "What is the real name of the actor who plays the voice of the spaceship in Flight Of The Navigator?"
+    answer: "Paul Reubens"
+  }
+  {
+    question: "What was the name of Judge Smales grandson in the movie 'Caddyshack'?"
+    answer: "SpauldingIn"
+  }
+  {
+    question: "'Beverly Hills Cop', when Axel Foley enters the hotel, he uses an alias. Who does he say he works for, and who does he say he's going to interview?"
+    answer: "Rolling Stone, Michael Jackson"
+  }
+  {
+    question: "What Cheers actor was in 'The Empire Strikes Back'?"
+    answer: "John Ratzenberg"
+  }
+  {
+    question: "What singer who had his one and only hit song in 1991 play a high school jock named Ricky in the 1987 movie 'Can't Buy Me Love'?"
+    answer: "Gerardo Mejia"
+  }
+  {
+    question: "How many gigawatts of electricity did Doc Brown need to generate to power the delorion in back to the future?"
+    answer: "1.21 gigawatts"
+  }
+  {
+    question: "What were the Ghostbusters' names?"
+    answer: "Peter Venkman,Egon Spengler,Ray Stantz ,Winston Zedmore"
+  }
+  {
+    question: "What was the make and model of the villian in 'The Terminator' 1984?"
+    answer: "T-800 Cyberdyne Systems Model 101 "
+  }
+  {
+    question: "Who was the 'keymaster' in Ghostbusters?"
+    answer: "Rick Moranis"
+  }
+  {
+    question: "Who was the 'gatekeeper' in Ghostbusters?"
+    answer: "Sigorney Weaver"
+  }
+  {
+    question: "What don't Gary and Wyatt do when they take a shower with Lisa in 'Weird Science?"
+    answer: "Take off their pants"
+  }
+  {
+    question: "In the 1984 movie 'Splash', the pretty blonde mermaid chooses which street name to be her own?"
+    answer: "Madison"
+  }
+  {
+    question: "Who provided the voice for the independent Eilonwy in Disney's often criticized 1985 movie 'The Black Cauldron'?"
+    answer: "Susan Sheridan"
+  }
+  {
+    question: "What two '80's dance movies did Cynthia Rhodes have a major role in?"
+    answer: "Dirty Dancing and Flashdance"
+  }
+  {
+    question: "What is the name of Marty's band that tries out for the dance in Back To The Future"
+    answer: "The Pinheads"
+  }
+  {
+    question: "Where did Ronald and Cindy go on there last date together in the movie 'Can't Buy Me Love'?"
+    answer: "Airplane junkyard"
+  }
+  {
+    question: "What is the name of the airline that operates the ill-fated flight from LA to Chicago in the movie Airplane!?"
+    answer: "Trans American"
+  }
+  {
+    question: "In the movie 'Better Off Dead', what was the name of Lane's younger brother?"
+    answer: "Badger"
+  }
+]

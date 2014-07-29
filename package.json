@@ -1,0 +1,23 @@
+{
+  "name": "Swag-Bot",
+  "version": "0.0.0",
+  "description": "Bot for #gaemers channel on Plug DJ",
+  "main": "plugBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plug",
+    "dj"
+  ],
+  "author": "dvize",
+  "license": "MIT",
+  "dependencies": {
+    "node-html-encoder": "0.0.2",
+    "plug-dj-login": "0.0.0",
+    "plugapi": "^2.3.1",
+    "request": "^2.39.0",
+    "source-map-support": "^0.2.7",
+    "ws": "^0.4.31"
+  }
+}
