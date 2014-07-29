@@ -15,6 +15,7 @@
   "dependencies": {
     "cson": "^1.6.0",
     "node-html-encoder": "0.0.2",
+    "node-uuid": "^1.4.1",
     "plug-dj-login": "0.0.0",
     "plugapi": "^2.3.1",
     "request": "^2.39.0",
